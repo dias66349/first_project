@@ -1,4 +1,8 @@
-ØÓÒÊÀ ÄÆÎÊÅĞÀ
+
+
+
+JOKER
+
 with dist_acts as (
   select
     a.Direct_Settlement,
