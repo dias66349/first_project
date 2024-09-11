@@ -1,3 +1,4 @@
+ØÓÒÊÀ ÄÆÎÊÅĞÀ
 with dist_acts as (
   select
     a.Direct_Settlement,
